@@ -1,0 +1,24 @@
+* {
+  font-family: cursive;
+}
+.header-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+}
+.title {
+  margin: 0;
+}
+.nav {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  padding: 20px;
+}
+
+.nav-item {
+  text-decoration: none;
+  color: black;
+  padding: 10px 20px;
+}
